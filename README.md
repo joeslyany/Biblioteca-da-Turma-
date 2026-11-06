@@ -1,3 +1,5 @@
+# Parte 1 — Leitura dos dados - Antes de escrever as demais tarefas, responda:
+
 # 1. Qual e o tipo de livros ?
     variáveis
 # 2. Qual e o tipo de livros[0] ?

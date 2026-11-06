@@ -43,6 +43,12 @@ print(livro"Livros Disponiveis:" quantidade_disponiveis)
 
 
 # Parte 6 — Alterando um registro
+
+# Parte 7 — Adicionando um livro
 novo_livro + livrp {"id": 4, "titulo": "Programacao Python", "autor": "Autor da turma", "ano": 2026, "disponivel": True}
 
 Livros.append(novo_livro)
+
+# Parte 8 — Tratando uma chave opcional
+
+# Desafio final — Preparando uma rota Flask
